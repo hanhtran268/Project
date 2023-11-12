@@ -1,0 +1,11 @@
+urllib
+requests
+numpy
+pandas
+matplotlib.pyplot
+plotly.graph_objects
+datetime
+yfinance
+streamlit
+time
+plotly.subplots
