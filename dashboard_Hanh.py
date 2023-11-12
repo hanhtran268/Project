@@ -13,7 +13,6 @@ import urllib
 import requests
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from datetime import datetime, timedelta
 import yfinance as yf
